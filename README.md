@@ -2,7 +2,7 @@
 <!--- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... --->
-- 📫  How to reach me - connect with me on LinkedIn, or send me an email!
+- 📫  How to reach me - connect with me on LinkedIn[https://www.linkedin.com/in/yangsong97/], or send me an email!
 
 Most of my work is private, so feel free to reach out and get in touch!
 
